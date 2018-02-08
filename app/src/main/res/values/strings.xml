@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="heading">Answer the following questions</string>
+    <string name="ques_1">1) Layouts in android?</string>
+    <string name="ques1Option1">Relative layout</string>
+    <string name="ques1Option2">Linear layout</string>
+    <string name="ques1Option3">Frame layout</string>
+    <string name="ques1Option4">All of these</string><string name="ques3Button1">Stack.xml</string>
+    <string name="ques_2">2) The XML file that contains all the text that your application uses.</string>
+    <string name="ques2Option1">Stack.xml</string>
+    <string name="ques2Option2">Text.xml</string>
+    <string name="ques2Option3">Strings.xml</string>
+    <string name="ques2Option4">String.xml</string>
+    <string name="ques_3">3) Creating a UI (User Interface) in Android requires careful use of…</string>
+    <string name="ques3Option1">Java</string>
+    <string name="ques3Option2">XML</string>
+    <string name="ques3Option3">SQL</string>
+    <string name="ques3Option4">Dream Weaver</string>
+    <string name="ques_4">4) Android is based on Linux for the following reason</string>
+    <string name="ques4Option1">Security</string>
+    <string name="ques4Option2">Portability</string>
+    <string name="ques4Option3">Networking</string>
+    <string name="ques4Option4">All of these</string>
+    <string name="ques_5">5) In which year did Google purchase Android?</string>
+    <string name="ques_6">6) What is the official language of Android?</string>
+    <string name="ques_7">7) Which one is not a nickname of a version of Andriod?</string>
+    <string name="ques7Option1">Honeycomb</string>
+    <string name="ques7Option2">Muffin</string>
+    <string name="ques7Option3">Cupcake</string>
+    <string name="ques7Option4">Gingerbread</string>
+    <string name="submitButton">Submit</string>
+</resources>

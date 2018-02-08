@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="linearLayoutBottomMargin">16dp</dimen>
+    <dimen name="linearLayoutLeftMargin">16dp</dimen>
+    <dimen name="linearLayoutRightMargin">16dp</dimen>
+    <dimen name="linearLayoutTopMargin">16dp</dimen>
+    <dimen name="radioGroupBottomMargin">20dp</dimen>
+    <dimen name="checkBoxBottomMargin">20dp</dimen>
+    <dimen name="textVewTopMargin">20dp</dimen>
+    <dimen name="submitButtonTextSize">18sp</dimen>
+    <dimen name="submitButtonWidth">150dp</dimen>
+    <dimen name="submitButtonHeight">60dp</dimen>
+</resources>
